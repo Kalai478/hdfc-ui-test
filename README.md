@@ -1,3 +1,3 @@
-Sample-Proj
+HDFC UI Tests
 ===========
-This is a sample project written for HDFC UI automation using selenium.
+Code for automation tests for the HDFC Bank UI using selenium (Java).
